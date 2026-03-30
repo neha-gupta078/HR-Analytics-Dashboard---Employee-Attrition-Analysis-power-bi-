@@ -7,7 +7,7 @@ Key Insights:
 
 Tools Used: Power BI — DAX, Power Query, Star Schema, Slicers, KPI Cards, Matrix Visuals
 
-KPIs Tracked
+KPIs Tracked: 
 1.Attrition Rate
 2.Total Employee Count
 3.Average Salary
